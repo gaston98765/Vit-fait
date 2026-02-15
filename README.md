@@ -1,7 +1,7 @@
 🤝 Vit’fait: Connecting Students with Opportunities
 Bridging the gap between student talent and local needs. Vit’fait is a platform designed to solve two problems at once: helping university students monetize their free time around their class schedules and providing local clients with a trusted pool of help for small tasks.
 
-✨ Key Features
+🔑 Key Features:
 
 🎓 For Students: Monetize Your Free Time * Find Flexible Work: Browse, filter, and view local tasks that fit your specific schedule.
 
