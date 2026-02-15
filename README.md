@@ -23,4 +23,4 @@ Role-Based Authentication: Secure login system with separate permissions for stu
 
 Dedicated Dashboards: Custom, user-friendly interfaces tailored to each user type.
 
-Full Task Management: Transparent lifecycle management ensures all applications and tasks are handled clearly.
+
